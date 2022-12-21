@@ -1,0 +1,24 @@
+.calc{
+    width: 400px;
+    height: 500px;
+    margin: auto;
+    background-color: black;
+
+}
+#screen{
+    width: 380px;
+    height: 100px;
+    background-color: white;
+    margin-top: 30px;
+    margin: 5px;
+    text-align: right;
+    font-size: 50px;
+    /* verthe typiyyan pattillya.on aakumbo maathre typiyyan pattu.so pointer events sets none. */
+    /* pointer-events: none; */
+}
+.btn{
+    width: 80px;
+    height: 50px;
+    margin-left: 13px;
+    margin-top: 20px;
+}
